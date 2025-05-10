@@ -1,1 +1,0 @@
-# YouTube-Transcript-Summary-Generator
